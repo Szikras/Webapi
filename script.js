@@ -3,8 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
     var variantSelect = document.querySelector("#egyeb_list1_KT_airedale_terrier_b2_112_Teszt");
 
     // A szövegbeviteli és fájlfeltöltési mezők keresése (feltételezve, hogy ezek az ID-k)
-    var textInput = document.querySelector("#gravirozas_szoveg");
-    var fileUpload = document.querySelector("#grafika_feltoltes");
+    var textInput = document.querySelector("#page_artdet_product_param_spec_4710625");
+    var fileUpload = document.querySelector("#page_artdet_product_param_spec_4710630");
 
     // Ha nem találhatóak az elemek, ne csináljunk semmit
     if (!variantSelect) return;
